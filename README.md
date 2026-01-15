@@ -1,8 +1,8 @@
-## Olá, eu sou Domingos Pereira!
+# Olá, eu sou Domingos Pereira!
 
-# Seja bem-vindo ao meu repositório.
+## Seja bem-vindo ao meu repositório.
 
-# Tecnologias que estou aprendendo:
+## Tecnologias que estou aprendendo:
 
 * Lógica de Programação
 * Frameworks
